@@ -18,7 +18,11 @@ The purpose of this analysis is to use a Neural Network Model to create a model 
 ### Compiling, Training, and Evaluating the Model
 - The final neural network model consisted of 3 hidden layers, comprised of 80, 30, and 20 neurons, respectively. Each hidden layer employed the tanh function. The model's output layer utilized the sigmoid activation function.
 
+![image_name](Resources/1.png)
+
 - The model did not achieve the target model performance of 75%. The model's performance was 72.5%.
+
+![image_name](Resources/2.png)
 
 - Steps taken to attempt to increase the model performance included: removing noisy varibales (SPECIAL_CONSIDERATIONS_N); adding additional neurons and hidden layers; and changing the activation function of the hidden layers from relu to tanh.
 
@@ -31,6 +35,5 @@ The purpose of this analysis is to use a Neural Network Model to create a model 
 
 
 
-![image_name](Resources/1.png)
 
-![image_name](Resources/2.png)
+
